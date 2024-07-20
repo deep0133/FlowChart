@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net" modified="2024-07-20T13:28:24.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="jL0o3oLfzhuQR4cModWa" version="24.0.4" type="github">
+  <diagram name="Page-1" id="vzkTU200DZlXjmTpH4r8">
+    <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nnDr40bnEdu0E7ohHrRL-10" target="nnDr40bnEdu0E7ohHrRL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-10" value="Super Admin" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nnDr40bnEdu0E7ohHrRL-11" target="nnDr40bnEdu0E7ohHrRL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-11" value="Institution Admin&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Super%20Admin%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BabsoluteArcSize%3D1%3BarcSize%3D14%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22120%22%20y%3D%22120%22%20width%3D%22150%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nnDr40bnEdu0E7ohHrRL-12" target="nnDr40bnEdu0E7ohHrRL-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-12" value="User Resource Access" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-13" value="Features" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="160" height="260" as="geometry">
+            <mxRectangle x="120" y="200" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-14" value="Add Book" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-13">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-15" value="Fetch Active Instituions" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-13">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-26" value="Activate and Deactivate Institution" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-13">
+          <mxGeometry y="86" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-25" value="Activate and Deactivate Institution" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-13">
+          <mxGeometry y="130" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-27" value="Give access to activated institutions of db" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-13">
+          <mxGeometry y="180" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-28" value="Dashboard Details" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-13">
+          <mxGeometry y="230" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-29" value="Features" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-30" value="Search Book" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-29">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-31" value="Create User Search Account" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-29">
+          <mxGeometry y="56" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-33" value="Features" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="160" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-34" value="View Books" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-33">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-35" value="Saved Docs" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-33">
+          <mxGeometry y="56" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="nnDr40bnEdu0E7ohHrRL-36" value="Saved Search" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nnDr40bnEdu0E7ohHrRL-33">
+          <mxGeometry y="90" width="160" height="34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
